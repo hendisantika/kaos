@@ -1,0 +1,8 @@
+DAFTAR ORDER T-SHIRT Kotlin
+
+Silahkan tulis Nama/Nickname, jumlah t-shirt, size dan jumlah untuk size tsb. 
+Kemudian raise PULL REQUEST supaya order tersebut masuk list order.
+Masukkan order korang bentuk CSV (Comma Separated Value)... hahaha...
+
+NO|Nama Lengkap|ID Telegram|Jumlah|Ukuran
+1|Hendi Santika|@hendisantika|1|L1
