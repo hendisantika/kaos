@@ -18,3 +18,6 @@ Cara order dari repo ni...
 2. Update nama sendiri dalam list file itu.
 3. Buat PULL REQUEST supaya aku update
 Dah dech Itu aje... terima kasih!
+
+
+![Kaos Kotlin](Kaos_Kotlin.jpg)
