@@ -15,8 +15,24 @@ INGAT!! Order akan ditutup pada hari Rabu, 08 November 2017
 Cara order dari repo ni...
 
 1. Fork repo ini.
-2. Update nama sendiri dalam list file itu.
-3. Buat PULL REQUEST supaya aku update
+2. Clone repo ini.
+3. Update nama sendiri dalam list file excel itu.
+4. Buat PULL REQUEST supaya aku update
+5. Transfer ke nomer rekening :
+	
+	BCA - 1393013668
+	
+	Mandiri - 130-001-248-5069
+	
+	Hendi Santika
+	
+	Tambah 3 digit akhir no HP.
+	
+	Contoh : 
+	
+	Saya pesan 1 Kaos Kotlin dan 3 digit no HP 881.
+	Jadi, saya harus tranfer : 150881
+6. Kirim bukti transaksinya ke [@hendisantika34](t.me/hendisantika34)
 Dah dech Itu aje... terima kasih!
 
 
