@@ -4,7 +4,7 @@ Daftar Order T-shirt Kotlin dan JVM User Group
 
 Ini adalah repo untuk order t-shirt [Kotlin](t.me/@KotlinID) dan [JVM User Group](t.me/JVMUserGroup). Sengaja saya buat repo seperti ini supaya lebih praktis pakai Git ini... hahaha...
 
-Ini design kaos yang untuk umum. Bisa dikapai masing-masing atau bersama kawan-kawan yang sealiran atau yang ingin tahu apa itu JVM User Group atau Kotlin ... Siapa yang faham dan berminat untuk beli t-shirt ini, silahkan pre-order sekarang. Limited Edition. Tidak ada jualan lagi. Wkwkwkwwk.
+Ini design kaos yang untuk umum. Bisa dipakai masing-masing atau bersama kawan-kawan yang sealiran atau yang ingin tahu apa itu JVM User Group atau Kotlin ... Siapa yang faham dan berminat untuk beli t-shirt ini, silahkan pre-order sekarang. Limited Edition. Tidak ada jualan lagi. Wkwkwkwwk.
 
 Harga 150K aja cukup ah. T-shirt bahan dan kualitas super dengan sablon karet sublime Premium. Ukuran dari S hingga 2XL saja.
 
