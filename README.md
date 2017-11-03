@@ -1,5 +1,5 @@
 # kaos
-Daftar Order T-shirt Kotlin dan JVM User Group
+[Daftar Order T-shirt Kotlin dan JVM User Group](https://docs.google.com/spreadsheets/d/1x0xm6bFisYBEwQGZIFN8W7fAffj4YBSsTOk2YBav4ss/edit#gid=968615135)
 
 
 Ini adalah repo untuk order t-shirt [Kotlin](t.me/@KotlinID) dan [JVM User Group](t.me/JVMUserGroup). Sengaja saya buat repo seperti ini supaya lebih praktis pakai Git ini... hahaha...
