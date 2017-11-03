@@ -14,11 +14,9 @@ INGAT!! Order akan ditutup pada hari Rabu, 08 November 2017
 
 Cara order dari repo ni...
 
-1. Fork repo ini.
-2. Clone repo ini.
-3. Update nama sendiri dalam list file excel itu.
-4. Buat PULL REQUEST supaya aku update
-5. Transfer ke nomer rekening :
+1. Daftar ke link [ini.](https://docs.google.com/spreadsheets/d/1x0xm6bFisYBEwQGZIFN8W7fAffj4YBSsTOk2YBav4ss/edit?usp=sharing)
+2. Update nama sendiri dalam list file excel itu.
+3. Transfer ke nomer rekening :
 	
 	BCA - 1393013668
 	
