@@ -1,5 +1,6 @@
 # kaos
-[Daftar Order T-shirt Kotlin dan JVM User Group](https://docs.google.com/spreadsheets/d/1x0xm6bFisYBEwQGZIFN8W7fAffj4YBSsTOk2YBav4ss/edit#gid=968615135)
+[Daftar Order T-shirt Kotlin dan JVM User Group](http://bit.ly/kaosjvm)
+
 
 
 Ini adalah repo untuk order t-shirt [Kotlin](t.me/@KotlinID) dan [JVM User Group](t.me/JVMUserGroup). Sengaja saya buat repo seperti ini supaya lebih praktis pakai Git ini... hahaha...
@@ -14,7 +15,7 @@ INGAT!! Order akan ditutup pada hari Rabu, 08 November 2017
 
 Cara order dari repo ni...
 
-1. Daftar ke link [ini.](https://docs.google.com/spreadsheets/d/1x0xm6bFisYBEwQGZIFN8W7fAffj4YBSsTOk2YBav4ss/edit?usp=sharing)
+1. Daftar ke link [ini.](http://bit.ly/kaosjvm)
 2. Update nama sendiri dalam list file excel itu.
 3. Transfer ke nomer rekening :
 	
